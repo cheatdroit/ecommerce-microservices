@@ -15,8 +15,6 @@ server-side logic and data processing for my application.
 
 ## Prerequisites
 
-EDIT1
-
 Before you begin, ensure you have met the following requirements:
 
 
